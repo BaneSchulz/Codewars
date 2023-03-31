@@ -2,6 +2,7 @@
 If limit is a multiple of integer, it should be included as well. There will only ever be positive integers passed into the function, not consisting of 0. 
 The limit will always be higher than the base. For example, if the parameters passed are (2, 6), the function should return [2, 4, 6] as 2, 4, and 6 are the multiples
 of 2 up to 6.*/
+
 /*Nesse simples exercício, você deverá construir um programa que pega um valor (inteiro), e retorna uma lista de seus multiplos até chegar em outro valor (limite).
 Se o limite for um multiplo do inteiro, ele também deve aparecer na lista. Devera ter apenas inteiros positivos passados para a função, não possuindo 0. 
 O limite sempre vai ser maior que a base. Por exemplo, se os parametros passados são (2, 6), a função deveria retornar [2, 4, 6] já que 2, 4 e 6 são multiplos de 2 
